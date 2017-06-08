@@ -1,0 +1,21 @@
+.grandtitre {
+  font-size:  35px
+    background-color: red;
+  color: blue;
+  
+}
+.body{
+  background : url("https://www.facebook.com/photo.php?fbid=1238821376229212&set=a.273458519432174.58971.100003040854646&type=3&theater") left top /* si tu veux le placer en haut a gauche par exemple*/ #FFF /* si tu veux y rajouter une couleur de fond en plus*/;}
+
+.body {
+  padding-top: 50px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.p {
+  padding: 40px 15px;
+  text-align: center;k
